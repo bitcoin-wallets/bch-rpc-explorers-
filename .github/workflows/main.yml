@@ -14,20 +14,15 @@ Nameserver: ns-cloud-c2.googledomains.com.
 IP address: 99.83.188.88 
 IP address: 75.2.84.139
 
-
-Sort by nodes
- 
-
- 
-capacity
-ISP	Nút	Sức chứa
-Amazon.com	-  bc1qjhxqpjeyvfmg9h3e2gy9awp6fkrm57089u865v + Balance: 407	‎2.164,03 BTC
-Google Cloud	-  bc1qjhxqpjeyvfmg9h3e2gy9awp6fkrm57089u865v + Balance: 73	‎1.242,43 BTC
-DataWeb Global Group B.V.	-  bc1qjhxqpjeyvfmg9h3e2gy9awp6fkrm57089u865v + Balance: 8	‎745,03 BTC
-DigitalOcean	217	‎413,11 BTC
-Alibaba	3	‎290,48 BTC
-Hetzner Online GmbH	187	‎270,34 BTC
-Lunanode	200	‎159,35 BTC
+Bitcoin miner address value have amount
+ISP	- Address	- Balance
+Amazon.com	- bc1qjhxqpjeyvfmg9h3e2gy9awp6fkrm57089u865v - Balance 4.072.164,03 BTC
+Google Cloud	- bc1qjhxqpjeyvfmg9h3e2gy9awp6fkrm57089u865v - Balance 73‎1.242,43 BTC
+DataWeb Global Group B.V.	-  bc1qjhxqpjeyvfmg9h3e2gy9awp6fkrm57089u865v - Balance 8.745,03 BTC
+DigitalOcean	bc1qjhxqpjeyvfmg9h3e2gy9awp6fkrm57089u865v - Balance 217‎413,11 BTC
+Alibaba	- bc1qjhxqpjeyvfmg9h3e2gy9awp6fkrm57089u865v - Balance 3	‎290,48 BTC
+Hetzner Online GmbH	- bc1qjhxqpjeyvfmg9h3e2gy9awp6fkrm57089u865v - Balance 187	‎270,34 BTC
+Lunanode	- bc1qjhxqpjeyvfmg9h3e2gy9awp6fkrm57089u865v - Balance 200	‎159,35 BTC
 OVH SAS	61	‎128,84 BTC
 BlueVPS OU	4	‎94,26 BTC
 UAB Interneto vizija	9	‎80,78 BTC
